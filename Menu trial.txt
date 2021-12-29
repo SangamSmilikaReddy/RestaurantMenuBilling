@@ -1,0 +1,33 @@
+ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _  
+|_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ MENU CARD_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _|
+|				   						       |
+|    			********* FAST FOOD **********				       |
+|										       |
+|    Zinger               .......150/-						       |
+|    Mighty Zinger        .......250/-						       |
+|    Chicken Burger       .......120/-						       |
+|    Spicy Chicken Burger .......150/-						       |
+|    Chicken Sandwich     .......120/-						       |
+|    Crispy Sandwich      .......200/-						       |
+|										       |
+|    			********** APPETIZER *********				       |
+|                                                         			       |
+|    Garlic Bread ........4pcs.(150/-)...8pcs.(280/-)				       |
+|    Wings        ........6pcs.(250/-)...12pcs.(450/-)				       |
+|    Nuggets      ........6pcs.(250/-)...12pcs.(450/-)				       |
+|    Salad        ........Large(400/-)...Regular(250/-)				       |
+|										       |
+|    			*********** PIZZA ************				       |
+|										       |
+|    Tandoori Pizza            .......Large(350/-)...Regular(250/-)...Small(180/-)     |
+|    Chicken Tikka Pizza       .......Large(350/-)...Regular(250/-)...Small(180/-)     |
+|    Chicken Fajita Pizza      .......Large(350/-)...Regular(250/-)...Small(180/-)     |
+|    Pepperoni Classic Pizza   .......Large(550/-)...Regular(400/-)...Small(220/-)     |
+|    Shawarma Lover Pizza      .......Large(550/-)...Regular(400/-)...Small(220/-)     |
+|										       |
+|    			******* EXTRA TOPPINGS *******                                 |
+|										       |
+|    Cheese Extra Topping  .......70/-                                                 |
+|    Meat                  .......100/-                                                |
+|    Veggies               .......60/-                                                 |
+|_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ |
