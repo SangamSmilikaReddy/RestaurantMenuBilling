@@ -86,14 +86,14 @@ int main(){
         printf("\n\n");
         switch(opt){
             case 1:
-                //system("clear");
+                system("CLS");
                 displayMenu();
                 break;
             case 2:
                 while(continueflag2=='y'){
                     float total=0;
                     int invoiceFound=0;
-                    //system("clear");
+                    system("CLS");
                     printf("\t===========ADV. Restaurant===========");
                     printf("\n\nPlease select your prefered operation");
                     printf("\n\n1.Generate Invoice");
@@ -105,7 +105,7 @@ int main(){
                     fgetc(stdin);
                     switch(choi){
                         case 1:
-                            //system("clear");
+                            system("CLS");
                             printf("\nEnter the name of the customer:\t");
                             fgets(ord.customer,50,stdin);
                             ord.customer[strlen(ord.customer)-1]=0;
@@ -145,7 +145,7 @@ int main(){
                             }
                             break;
                         case 2:
-                            //system("clear");
+                            system("CLS");
                             fbill = fopen("BillStatement.dat","rb");
                             printf("\n  *****Your Previous Invoices*****\n");
                             while(fread(&order,sizeof(struct orders),1,fbill)==1){
@@ -164,7 +164,7 @@ int main(){
                             // fgetc(stdin);
                             fgets(name,50,stdin);
                             name[strlen(name)-1]=0;
-                            //system("clear");
+                            system("CLS");
                             fbill = fopen("BillStatement.dat","rb");
                             printf("\n\t****** Invoice Of the %s *****",name);
                             while(fread(&order,sizeof(struct orders),1,fbill)==1){
@@ -197,6 +197,13 @@ int main(){
                     printf("\n\nDo you want to continue the operation?[y/n]?");
                     scanf("%s",&continueflag2);
                 }
+                break;
+            case 3:
+                printf("\n\t\tExiting.....\n\n");
+                exit(0);
+                break;
+            default:
+                printf("Sorry invalid option");
                 break;
 
         }
